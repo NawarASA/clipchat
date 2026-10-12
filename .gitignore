@@ -1,0 +1,12 @@
+node_modules/
+dist/
+backend/.venv/
+__pycache__/
+.pytest_cache/
+release/
+dist-engine/
+.build-tmp/
+.env
+.env.*
+!.env.example
+*.log
